@@ -42,7 +42,7 @@ I make these calls based on what protects the quality and integrity of the work 
 
 ## Reporting
 
-If you experience or witness a violation, reach me at [hello@omrajguru.com](mailto:hello@omrajguru.com) or through [omrajguru.com/contact](https://www.omrajguru.com/contact).
+If you experience or witness a violation, reach me at [connect@omrajguru.com](mailto:hello@omrajguru.com) or through [omrajguru.com/contact](https://www.omrajguru.com/contact).
 
 Reports are handled with discretion. I will review every report and respond with a clear course of action.
 
