@@ -330,7 +330,7 @@ I may exercise discretion in enforcement except where applicable law requires ot
 
 Suspected violations of this Policy may be reported to:
 
-**hello@omrajguru.com**
+**connect@omrajguru.com**
 
 Reports should include relevant information where available, such as:
 
@@ -357,4 +357,4 @@ Continued use of the Services after changes become effective constitutes accepta
 For questions about this Policy, contact:
 
 **Om Rajguru**  
-**hello@omrajguru.com**
+**connect@omrajguru.com**
