@@ -8,7 +8,7 @@ I take the integrity of every product I build seriously. If you find a vulnerabi
 
 Report security issues privately. Do not open a public issue.
 
-Reach me at [security@omrajguru.com](mailto:security@omrajguru.com) or through [omrajguru.com/contact](https://www.omrajguru.com/contact).
+Reach me at [connect@omrajguru.com](mailto:connect@omrajguru.com) or through [omrajguru.com/contact](https://www.omrajguru.com/contact).
 
 Include:
 
