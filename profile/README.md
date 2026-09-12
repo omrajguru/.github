@@ -1,4 +1,4 @@
-![Om Rajguru](https://in1.omcdn.xyz/static/identity/defaults/om-og-in1.png)
+![Om Rajguru](https://in1.omcdn.xyz/cms/static/open-graph/og-image-om.png)
 
 # Om Rajguru
 I work at the intersection of business, technology, and education.
